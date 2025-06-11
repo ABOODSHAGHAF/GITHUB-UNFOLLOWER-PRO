@@ -614,7 +614,7 @@ def follow_back_suggestions() -> str:
         if len(not_following_back) > 30:
             result += f"... and {len(not_following_back) - 30} more users\n"
 
-        result += f"\n\ud83d\udca1 Consider following some of these users to build mutual connections!"
+        result += f"\n💡 Consider following some of these users to build mutual connections!"
 
         print(f"\u2705 Follow-back suggestions complete: showing {display_count}/{len(not_following_back)} users")
         return result
