@@ -1,4 +1,4 @@
-# 🚀 GitHub Unfollower Pro
+# 🚀 GITHUB UNFOLLOWER PRO
 
 > **⚠️ IMPORTANT:**
 > 
