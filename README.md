@@ -129,11 +129,6 @@ requests>=2.28.0
 python-dotenv>=0.19.0
 ```
 
-## 🤗 Hugging Face Spaces Deployment
-
-### **🌐 Live Demo**
-**Access the tool**: [GitHub Unfollower Pro on Hugging Face](https://huggingface.co/spaces/YOUR_USERNAME/github-unfollower-pro)
-
 ### **Deploy Your Own Instance**
 
 1. **Prepare your repository**
