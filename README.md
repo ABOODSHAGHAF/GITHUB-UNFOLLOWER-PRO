@@ -25,12 +25,6 @@ Get a preview of the GitHub Unfollower Pro interface:
 
 > _The UI is designed for clarity and accessibility in both light and dark themes._
 
-## 🚀 Live Demo
-
-Try GitHub Unfollower Pro instantly on Hugging Face Spaces:
-
-👉 [Launch the App on Hugging Face](https://huggingface.co/spaces/aridepai17/githubunfollowerbot)
-
 ## ✨ Key Features
 
 ### 📊 **Smart Analytics Dashboard**
