@@ -1,0 +1,8 @@
+# Gradio: Web UI framework
+gradio==4.31.5
+# Requests: HTTP client for GitHub API
+requests==2.32.3
+# python-dotenv: Load environment variables from .env
+python-dotenv>=0.19.0
+# typing-extensions: For advanced type hints (optional, safe for all Python 3.8+)
+typing-extensions>=4.0.0
